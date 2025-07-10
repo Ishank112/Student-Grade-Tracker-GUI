@@ -19,10 +19,19 @@ A simple Java-based GUI application to manage and analyze student grades. Design
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if available)*
+### Adding Students
+![image](https://github.com/user-attachments/assets/c9829cbb-6313-4d28-8653-35aa40ed19a1)
+
+### Summary Of Students
+![image](https://github.com/user-attachments/assets/6a08498c-e3bc-4d0c-b508-cf333bc1ee78)
+
+### Sorted By Grades
+![image](https://github.com/user-attachments/assets/7105e00d-8fc3-4d8a-b4fe-2b43115134f6)
+
+### Searched By Names
+![image](https://github.com/user-attachments/assets/213e70b0-3c3b-44d7-9925-407f1f546f8b)
+
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/student-grade-tracker.git
+- First Add the 3 ".java" files in 'src' Folder Then Run the 'StudentGradeTrackerGUI.java' file.
